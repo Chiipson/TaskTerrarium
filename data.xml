@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reptiles>
+    <scaly>
+        <snakes>
+            <element>
+                <name>Black Mamba</name>
+                <age>3</age>
+                <itPoisonous>yes</itPoisonous>
+            </element>
+            <element>
+                <name>Radiant snake</name>
+                <age>1</age>
+                <itPoisonous>no</itPoisonous>
+            </element>
+            <element>
+                <name>Rattlesnake</name>
+                <age>7</age>
+                <itPoisonous>yes</itPoisonous>
+            </element>
+        </snakes>
+        <lizards>
+            <element>
+                <name>Fiery skink</name>
+                <age>13</age>
+                <itPoisonous>no</itPoisonous>
+            </element>
+            <element>
+                <name>Dwelling</name>
+                <age>4</age>
+                <itPoisonous>yes</itPoisonous>
+            </element>
+            <element>
+                <name>Fantastic gecko</name>
+                <age>1</age>
+                <itPoisonous>no</itPoisonous>
+            </element>
+        </lizards>
+    </scaly>
+    <turtles>
+        <element>
+            <name>Indian turtle</name>
+            <age>66</age>
+            <itPoisonous>no</itPoisonous>
+        </element>
+        <element>
+            <name>Caspian turtle</name>
+            <age>17</age>
+            <itPoisonous>no</itPoisonous>
+        </element>
+        <element>
+            <name>Box turtle</name>
+            <age>12</age>
+            <itPoisonous>yes</itPoisonous>
+        </element>
+    </turtles>
+</reptiles>
